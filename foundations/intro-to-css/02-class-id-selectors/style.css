@@ -1,0 +1,22 @@
+/* style.css */
+
+.paragraph {
+    background-color: rgb(255, 51, 0);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div-id{
+    color: blue;
+    font-size: 36px;
+}
+
+#div-id2{
+    font-weight: bold;
+    background-color: rgb(0, 255, 76);
+
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
